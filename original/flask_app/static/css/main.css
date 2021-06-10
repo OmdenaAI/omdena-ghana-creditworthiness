@@ -1,0 +1,52 @@
+body {
+    background: #00B4DB;
+    background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);
+    background: linear-gradient(to right, #0083B0, #00B4DB);
+    height: 100vh;
+}
+
+.rounded-lg {
+    border-radius: 1rem;
+}
+
+.custom-file-label.rounded-pill {
+    border-radius: 50rem;
+}
+
+.custom-file-label.rounded-pill::after {
+    border-radius: 0 50rem 50rem 0;
+}
+
+#upload {
+    margin: 0 auto;
+    width: 200px;
+}
+
+#preprocessing {
+    margin: 0 auto;
+    width: 300px;
+}
+
+#numeric_column_list, #categorical_column_list {
+    white-space: nowrap;
+}
+
+#numeric_column_list label, #categorical_column_list label {
+    padding-left: 0.4em;
+}
+
+#numeric_column_list tr td, #categorical_column_list tr td {
+    width: 25%;
+}
+
+#target_column_choice {
+    list-style-type: none;
+}
+
+#target_column_choice tr td {
+    width: 33.33%;
+}
+
+td {
+    padding: 5px;
+}
