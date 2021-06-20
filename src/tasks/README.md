@@ -11,12 +11,12 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
-|2|         |         |
-|3|         |         |
-|4|         |         |         
-|5|         |         |
-|6|         |         |
-|7|         |         |
-|8|         |         |
-|9|         |         |
+|1|Data collection         |        |
+|2|Exploratory data analysis         |         |
+|3|Analysis and Feature selection         |         |
+|4|Unsupervised clustering         |                  |                 
+|5|Recurring transactional analysis         |         |
+|6|Traditional scoring model         |         |
+|7|Customer lifetime value         |         |
+|8|Model pipeline         |         |
+|9|ML model pipeline         |         |
