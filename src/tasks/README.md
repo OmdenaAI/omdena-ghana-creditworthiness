@@ -18,5 +18,5 @@ Note : Please Follow the below guidelines to create task folders
 |5|Recurring transactional analysis         |         |
 |6|Traditional scoring model         |         |
 |7|Customer lifetime value         |         |
-|8|Model pipeline         |         |
+|8|Model development         |         |
 |9|ML model pipeline         |         |
