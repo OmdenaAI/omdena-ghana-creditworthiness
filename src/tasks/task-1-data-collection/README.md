@@ -13,5 +13,5 @@ In accordance with the [ProjectREADME](../../../README.md#folder-overview) , Thi
 |Code/Notebook |Link|  Information |
 |----------|------|-----------------------------------------------|
 |GLSS7 MAIN REPORT_FINAL|[link](https://github.com/OmdenaAI/omdena-ghana-creditworthiness/blob/main/src/tasks/task-1-data-collection/GLSS7%20MAIN%20REPORT_FINAL.pdf)|This a a survey report conducted by Ghana Statistical Services comprising of socio-economic, demographic, financial, GDP, banking, etc across 10 former regions of Ghana. Data from this file has been used to perform EDA. [Link to the EDA file](https://github.com/OmdenaAI/omdena-ghana-creditworthiness/blob/main/src/tasks/task-2-exploratorary-data-analysis/Ghana%20Living%20Standard%20Survey%207.ipynb)|
-|          |      |                                               |
+|Finscope surveys data 2016 to 2018|[link](https://zindi.africa/competitions/financial-inclusion-in-africa/data)|The three finscope_  datasets contain demographic information and what financial services are used by approximately 33,600 individuals across East Africa. This data was extracted from various Finscope surveys ranging from 2016 to 2018|
 |          |      |                                               |
